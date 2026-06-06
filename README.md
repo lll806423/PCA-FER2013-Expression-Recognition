@@ -3,6 +3,7 @@
 主成分分析对FER-2013Facial-expression的表现
 ## 说明
 数据集采用FER2013，48×48灰度人脸，7类表情：
+
 angry、disgust、fear、happy、neutral、sad、surprise
 ## 结果
 整体准确率不高。。

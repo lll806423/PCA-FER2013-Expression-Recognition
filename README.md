@@ -6,4 +6,5 @@
 angry、disgust、fear、happy、neutral、sad、surprise
 ## 结果
 整体准确率不高。。
+
 disgust类别样本较少，识别效果最差；happy样本充足效果最优。

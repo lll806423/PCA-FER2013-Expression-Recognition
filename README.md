@@ -1,6 +1,6 @@
 # PCA-FER2013-Expression-Recognition
 ## 介绍
-主成分分析对FER-2013Facial-expression的表现
+主成分分析对FER-2013Facial-expression的表现,学习模式识别的开始
 ## 说明
 数据集采用FER2013，48×48灰度人脸，7类表情：
 
